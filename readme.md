@@ -16,4 +16,4 @@ This uses as a reminder when you go to supermarket to buy things
 - Press check to mark as bought.
 - Once an item is checked as bought, we can press to delete it. Or uncheck it, the item will return as un-bought
 
-![budget] (./ArtboardBudget.png)
+![budget] (ArtboardBudget.png)
